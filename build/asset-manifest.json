@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44affc9e.css",
+    "main.js": "/static/js/main.422d7b42.js",
+    "static/media/ShareNITT.png": "/static/media/ShareNITT.591c6daf40d8125375ab.png",
+    "static/media/decor3d.png": "/static/media/decor3d.99120455ebad49fd18df.png",
+    "static/media/CineVerse.png": "/static/media/CineVerse.19d4e1edd969994bdb73.png",
+    "static/media/about3.jpg": "/static/media/about3.73bd6d6b9817f7dcf2d8.jpg",
+    "static/media/image.jpg": "/static/media/image.73bd6d6b9817f7dcf2d8.jpg",
+    "static/media/work4.jpg": "/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/Smith-Cv.pdf": "/static/media/Smith-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/index.html",
+    "main.44affc9e.css.map": "/static/css/main.44affc9e.css.map",
+    "main.422d7b42.js.map": "/static/js/main.422d7b42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44affc9e.css",
+    "static/js/main.422d7b42.js"
+  ]
+}
