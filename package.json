@@ -1,19 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "portfolio",
-  "version": "1.0.0",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    
-  },
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "express": "^4.18.3",
-    "https": "^1.0.0"
-=======
   "name": "john-smith",
   "version": "1.0.0",
   "description": "",
@@ -44,6 +29,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
->>>>>>> master
   }
 }
