@@ -17,7 +17,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Software developer, I develope, deploy, maintain web pages and mobile apps.
+            Software developer, I develop, deploy, maintain web pages and mobile apps.
             Currently, I am pursuing Bachelor's degree in Computer Science Engineering from NIT Trichy.
           </p>
 
