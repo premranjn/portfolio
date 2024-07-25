@@ -33,7 +33,7 @@ const Qualification = () => {
                 ? "qualification__button qualification__active button--flex"
                 : "qualification__button button--flex"
             }
-            onClick={() => toggleTab(2)}
+            // onClick={() => toggleTab(2)} !!!!!!!!Remove this comment to toggle experience section
           >
             <i className="uil uil-graduation-cap qualification__icon"></i>
             Experience

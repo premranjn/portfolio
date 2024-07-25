@@ -12,7 +12,7 @@ export const projectsData = [
     heading: " Software-as-a-Service (SaaS)  PDF Querying AI Application:",
     demo: '/docs/ChatPDF.pdf',
     desc: " Developed a web application that uses artificial intelligence to analyze and answer questions about documents. Users can upload documents and use AI to find and provide answers to thier queries. Technologies used: NextJS 13.4, AWS S3, OpenAI, DrizzleORM,  Stripe, TypeScript, Tailwind CSS, Clerk and PineconeDB.",
-    github: 'https://github.com/premranjn/chatPDF-ai',
+    github: 'https://github.com/premranjn/chatPDF-ai-public-version',
     category: "AI",
   },
   {
