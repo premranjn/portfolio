@@ -57,8 +57,7 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Computer Programmer</h3>
       <p className="home__description">
-      I'm creative software developer and enthusiast based in India, and I'm very passionate and
-      dedicated to my work.
+      I'm a creative software developer and enthusiast from NIT Trichy, passionate and dedicated to my work.
       </p>
 
       <a href="#contact" className="button button--flex">

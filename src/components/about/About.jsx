@@ -17,11 +17,11 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Software developer, I develop, deploy, maintain web pages and mobile apps.
+            Software Developer. I develop, deploy, maintain web pages and mobile apps.
             Currently, I am pursuing Bachelor's degree in Computer Science Engineering from NIT Trichy.
           </p>
 
-          <a download="" href={CV} className="button button--flex">
+          <a download="" href="/docs/CV.pdf" className="button button--flex">
             Download CV
             <svg
               class="button__icon"

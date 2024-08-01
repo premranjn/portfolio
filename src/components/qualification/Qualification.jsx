@@ -158,7 +158,7 @@ const Qualification = () => {
                   Secondary - Vaishali
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2007 - 2020
+                  <i className="uil uil-calendar-alt"></i> 2007 - 2019
                 </div>
               </div>
             </div>
@@ -167,9 +167,9 @@ const Qualification = () => {
               <div>
                 <h3 className="qualification__title">St.John's School</h3>
                 <span className="qualification__subtitle">Primary - Vaishali</span>
-                <div className="qualification__calender">
+                {/* <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 2002-2007
-                </div>
+                </div> */}
               </div>
 
               <div>
