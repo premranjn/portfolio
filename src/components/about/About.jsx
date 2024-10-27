@@ -1,10 +1,30 @@
 import React from "react";
+import Swal from "sweetalert2";
+import withReactContent from "sweetalert2-react-content";
 import "./about.css";
 import AboutImg from "../../assets/about3.jpg";
 import CV from "../../assets/Smith-Cv.pdf";
 import Info from "./Info";
 
+const MySwal = withReactContent(Swal);
+
 const About = () => {
+
+  const handleDownloadClick = (e) => {
+    e.preventDefault(); // Prevent the download if CV is being updated
+
+    MySwal.fire({
+      icon: "info",
+      title: "CV Update in Progress",
+      text: "The CV is currently being updated. Please check back soon!",
+      confirmButtonText: "Okay!",
+      customClass: {
+        popup: 'rounded-popup', // Add custom class for rounded popup
+      },
+      // iconColor: "#000", // White icon
+    });
+  };
+
   return (
     <section className="about section" id="about">
       <h2 className="section__title">About Me</h2>
@@ -21,7 +41,7 @@ const About = () => {
             Currently, I am pursuing Bachelor's degree in Computer Science Engineering from NIT Trichy.
           </p>
 
-          <a download="" href="/docs/CV.pdf" className="button button--flex">
+          <a download="" href="/docs/" className="button button--flex" onClick={handleDownloadClick}>
             Download CV
             <svg
               class="button__icon"

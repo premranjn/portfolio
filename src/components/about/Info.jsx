@@ -21,7 +21,7 @@ const Info = () => {
         <i class="bx bx-trophy about__icon"></i>
 
         <h3 className="about__title">Hackathon</h3>
-        <span className="about__subtitle">Finalist Hack4Good'23</span>
+        <span className="about__subtitle">Finalist Hack4Good'22</span>
       </div>
     </div>
   );

@@ -1,3 +1,7 @@
+.rounded-popup {
+    border-radius: 16px; /* Adjust the value as needed */
+  }
+
 .about__container {
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
